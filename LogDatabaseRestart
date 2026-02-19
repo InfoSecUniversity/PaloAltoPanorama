@@ -1,2 +1,7 @@
+#Restart Services
 debug software restart process logd
 debug software restart process vldmgr
+#Shows status health
+Show log-collector-es-cluster health
+#Repair Database
+Debug elasticsearch repair unassigned 
